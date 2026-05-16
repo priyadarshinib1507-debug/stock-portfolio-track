@@ -1,11 +1,10 @@
 # stock-portfolio-track
-Hello everyone,
+This is a  simple Stock Portfolio tracker using python
 
-I have completed my internship Task 2 by developing a Stock Portfolio Tracker using Python.
-
+# Features
 This project calculates the total investment value based on user-entered stock names and quantities using a predefined stock price dictionary.
 
-Concepts used in this project:
+# Concepts used :
 • Dictionary
 • Loops
 • Conditional Statements
@@ -13,6 +12,11 @@ Concepts used in this project:
 • Arithmetic Operations
 • File Handling using CSV
 
-This project helped me strengthen my understanding of Python fundamentals and data handling.
+# How to run:
+1.Open the fle in python
+2.Run the program
+3.track a stock price,name, shares
+4.portfolio report is done 
 
-#Python #Internship #StockPortfolio #Coding #PythonProgramming
+# author 
+priyadarshini behera
